@@ -43,7 +43,7 @@
 
 <div align="center">
     <br>
-    <p align="center"><b>Contador de Visitas</b></p>
+    <p align="center" color="FFCCFF"><b>Contador de Visitas</b></p>
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{TayaraJesus}/count.svg"></p>
 </div>    
 
