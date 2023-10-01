@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFCCFF&height=120&section=header">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&pause=2000&lines=Hi!+I'm+Tayara+Jesus+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&pause=2000&lines=Hi!+I'm+Tayara+Jesus+FFCCFF)](https://git.io/typing-svg)
 
 <h3 align="center">Desenvolvedor Back-End e Analista de Dados em constante evolução 🚀</h3>
 <h4 align="center">* Atualmente estudo automações com Python e novos conceitos para análise de dados e BI *</h4>
