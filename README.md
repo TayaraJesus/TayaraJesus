@@ -10,7 +10,7 @@
 
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TayaraJesus&theme=radical&show_icons=true&&hide_border=true" alt="Tayara Jesus github stats">
-    <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TayaraJesus&layout=compact&hide_border=true&title_color=FFCCFF&text_color=FFCCFF&bg_color=0A0C10" alt="Márcio Fontes github stats">
+    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TayaraJesus&layout=compact&hide_border=true&title_color=FFCCFF&text_color=FFCCFF&bg_color=0A0C10" alt="Márcio Fontes github stats">
 </div>
 
 ## - Redes Sociais
